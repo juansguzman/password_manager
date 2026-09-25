@@ -15,4 +15,4 @@ A Python-based, 100% offline password manager supporting strong master password 
 1. **Clone the repository:** 
    ```bash
    git clone https://github.com/juansguzman/password_manager.git
-   cd password-manager
+   cd password_manager
