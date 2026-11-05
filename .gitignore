@@ -1,0 +1,10 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+
+# Archivos generados por los scripts de seguridad
+*.enc
+*.dec
+vault.enc
+salt.bin
