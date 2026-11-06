@@ -26,3 +26,17 @@ This application strictly adheres to a Zero-Knowledge model and includes built-i
 ```bash
 git clone [https://github.com/juansguzman/password_manager.git](https://github.com/juansguzman/password_manager.git)
 cd password_manager
+
+
+
+## Checkpoints & Progress
+Specific deliverables, run instructions, and progress notes for the course checkpoints are documented in their respective files:
+- [Checkpoint 2 (Week 9) - Core Requirements](./Checkpoint\ 2.md)
+
+## AI Usage Disclosure
+In the development of this repository, Artificial Intelligence tools were utilized as an assistive technology. AI was used to:
+- Guide the architectural design and threat modeling.
+- Generate boilerplate code and structural templates.
+- Refine documentation and assist with syntax debugging.
+
+**Human Oversight:** All AI-generated outputs were strictly reviewed, refactored, and validated for cryptographic security and logic flaws prior to committing. The repository owner takes full responsibility for the accuracy, security, and functionality of the codebase.
